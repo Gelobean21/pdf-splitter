@@ -1,0 +1,37 @@
+C:\Users\SU0067\Desktop\split pdf\bin\Debug\split_rename_pdf.exe.config
+C:\Users\SU0067\Desktop\split pdf\bin\Debug\split_rename_pdf.exe.manifest
+C:\Users\SU0067\Desktop\split pdf\bin\Debug\split_rename_pdf.application
+C:\Users\SU0067\Desktop\split pdf\bin\Debug\split_rename_pdf.exe
+C:\Users\SU0067\Desktop\split pdf\bin\Debug\split_rename_pdf.pdb
+C:\Users\SU0067\Desktop\split pdf\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SU0067\Desktop\split pdf\bin\Debug\itextsharp.dll
+C:\Users\SU0067\Desktop\split pdf\bin\Debug\MetroFramework.dll
+C:\Users\SU0067\Desktop\split pdf\bin\Debug\itextsharp.xml
+C:\Users\SU0067\Desktop\split pdf\obj\Debug\split_rename_pdf.csprojAssemblyReference.cache
+C:\Users\SU0067\Desktop\split pdf\obj\Debug\insert_image_to_pdf.frmMain.resources
+C:\Users\SU0067\Desktop\split pdf\obj\Debug\split_rename_pdf.Properties.Resources.resources
+C:\Users\SU0067\Desktop\split pdf\obj\Debug\split_rename_pdf.csproj.GenerateResource.cache
+C:\Users\SU0067\Desktop\split pdf\obj\Debug\split_rename_pdf.csproj.CoreCompileInputs.cache
+C:\Users\SU0067\Desktop\split pdf\obj\Debug\split_rename_pdf.exe.manifest
+C:\Users\SU0067\Desktop\split pdf\obj\Debug\split_rename_pdf.application
+C:\Users\SU0067\Desktop\split pdf\obj\Debug\split_rename_pdf.csproj.CopyComplete
+C:\Users\SU0067\Desktop\split pdf\obj\Debug\split_rename_pdf.exe
+C:\Users\SU0067\Desktop\split pdf\obj\Debug\split_rename_pdf.pdb
+G:\My Drive\Ravago\split pdf\obj\Debug\split_rename_pdf.csproj.AssemblyReference.cache
+G:\My Drive\Ravago\split pdf\obj\Debug\insert_image_to_pdf.frmMain.resources
+G:\My Drive\Ravago\split pdf\obj\Debug\split_rename_pdf.Properties.Resources.resources
+G:\My Drive\Ravago\split pdf\obj\Debug\split_rename_pdf.csproj.GenerateResource.cache
+G:\My Drive\Ravago\split pdf\obj\Debug\split_rename_pdf.csproj.CoreCompileInputs.cache
+G:\My Drive\Ravago\split pdf\obj\Debug\split_rename_pdf.exe
+G:\My Drive\Ravago\split pdf\obj\Debug\split_rename_pdf.pdb
+G:\My Drive\Ravago\split pdf\bin\Debug\split_rename_pdf.exe.config
+G:\My Drive\Ravago\split pdf\bin\Debug\split_rename_pdf.exe.manifest
+G:\My Drive\Ravago\split pdf\bin\Debug\split_rename_pdf.application
+G:\My Drive\Ravago\split pdf\bin\Debug\split_rename_pdf.exe
+G:\My Drive\Ravago\split pdf\bin\Debug\split_rename_pdf.pdb
+G:\My Drive\Ravago\split pdf\bin\Debug\BouncyCastle.Crypto.dll
+G:\My Drive\Ravago\split pdf\bin\Debug\itextsharp.dll
+G:\My Drive\Ravago\split pdf\bin\Debug\MetroFramework.dll
+G:\My Drive\Ravago\split pdf\bin\Debug\itextsharp.xml
+G:\My Drive\Ravago\split pdf\obj\Debug\split_rename_pdf.exe.manifest
+G:\My Drive\Ravago\split pdf\obj\Debug\split_rename_pdf.application
